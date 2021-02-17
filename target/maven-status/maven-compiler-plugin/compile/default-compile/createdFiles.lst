@@ -1,4 +1,5 @@
 co\edu\escuelaing\nanoSpark\nanoSparkServer.class
-co\edu\escuelaing\nanoSpark\HttpServer.class
+co\edu\escuelaing\httpserver\Handler.class
 co\edu\escuelaing\nanoSpark\demo\NanoSparkWebDemo.class
 co\edu\escuelaing\nanoSpark\NanoSpark.class
+co\edu\escuelaing\httpserver\HttpServer.class
