@@ -1,7 +1,9 @@
 package co.edu.escuelaing.nanoSpark;
 
-import java.net.http.HttpRequest;
-import java.net.http.HttpResponse;
+
+import co.edu.escuelaing.httpserver.HttpRequest;
+import co.edu.escuelaing.httpserver.HttpResponse;
+
 import java.util.function.BiFunction;
 
 public class NanoSpark {
